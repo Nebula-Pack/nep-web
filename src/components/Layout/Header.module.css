@@ -1,0 +1,12 @@
+.header {
+    background: linear-gradient(90deg, #1a202c, #4a5568);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navLink {
+    transition: color 0.3s ease;
+}
+
+.navLink:hover {
+    color: #f6e05e;
+}
